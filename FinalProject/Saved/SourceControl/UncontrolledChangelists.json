@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/cs415_final/CS415-Final-Project/FinalProject/Content/KoreanTraditionalMartialArts/Map/Overview_BuiltData.uasset",
+				"E:/cs415_final/CS415-Final-Project/FinalProject/Content/Enemy/Animation/AI/WalkBlendSpace.uasset",
+				"E:/cs415_final/CS415-Final-Project/FinalProject/Content/Enemy/Animation/AI/AP_EnemyAI.uasset",
+				"E:/cs415_final/CS415-Final-Project/FinalProject/Content/Enemy/Animation/AI/AttackAnimMontage.uasset",
 				"C:/Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/Turret/machine_gun_turret/BP_Machine_Gun_Turret.uasset",
 				"C:/Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/Turret/Sample_Monster/BP_Sample_monster.uasset",
 				"C:/Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/2Y/00PH4DFZFP2XIUM72SBAE3.uasset",
