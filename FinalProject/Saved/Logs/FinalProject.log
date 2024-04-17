@@ -2856,3 +2856,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.17-01.24.00:523][558]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Battle_Map/Map1.Map1:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
 [2024.04.17-01.24.00:523][558]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Battle_Map/Map1.Map1:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
 [2024.04.17-01.24.00:523][558]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Battle_Map/Map1.Map1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: ================================================
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Total job queries 284, among them cache hits 74 (26.06%)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Tracking 210 distinct input hashes that result in 136 distinct outputs (64.76%)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: RAM used: 4.68 MiB of 819.20 MiB budget. Usage: 0.57%
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Shaders Compiled: 127
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Jobs assigned 127, completed 127 (100%)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Average time worker was idle: 63.68 s
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.28 s
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.87 s
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 1.92
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Shader code size: average 37.853 KiB, min 3.699 KiB, max 74.301 KiB
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.39 s
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Jobs were issued in 127 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Average processing rate: 8.25 jobs/sec
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Total thread time: 44.472 s
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Total thread preprocess time: 6.033 s
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Percentage time preprocessing: 13.57%
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Effective parallelization: 2.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 0.68 sec, max 1.37 sec, min 0.38 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.54 sec, max 1.00 sec, min 0.21 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.51 sec, max 0.96 sec, min 0.20 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 0.49 sec, max 1.48 sec, min 0.35 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.43 sec, max 0.58 sec, min 0.30 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.39% of total time (compiled   22 times, average 0.41 sec, max 1.18 sec, min 0.20 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.87% of total time (compiled   23 times, average 0.35 sec, max 0.93 sec, min 0.18 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.53% of total time (compiled   14 times, average 0.49 sec, max 1.48 sec, min 0.35 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.75% of total time (compiled   19 times, average 0.28 sec, max 0.90 sec, min 0.16 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.14% of total time (compiled    4 times, average 0.68 sec, max 1.37 sec, min 0.38 sec)
+[2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: ================================================
