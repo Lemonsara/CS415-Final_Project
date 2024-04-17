@@ -2889,3 +2889,109 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.75% of total time (compiled   19 times, average 0.28 sec, max 0.90 sec, min 0.16 sec)
 [2024.04.17-01.24.00:703][558]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.14% of total time (compiled    4 times, average 0.68 sec, max 1.37 sec, min 0.38 sec)
 [2024.04.17-01.24.00:703][558]LogShaderCompilers: Display: ================================================
+[2024.04.17-01.27.07:545][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.27.07:546][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-01.27.07:546][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-01.27.08:678][ 26]LogSlate: Took 0.006546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.17-01.27.59:380][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.27.59:445][ 12]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.27.59:446][ 12]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Boom928FED734642D31FF20D17B0F8DD80F8.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.27.59:452][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.11 sec)
+[2024.04.17-01.27.59:453][ 12]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.27.59:453][ 12]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.28.01:539][239]BlueprintLog: New page: Compile BP_Boom
+[2024.04.17-01.28.01:570][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.17-01.28.57:266][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.28.57:392][848]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.28.57:392][848]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_BoomD0638EDB4738700DC090EDA7DCEBF2C7.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.28.57:400][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.24 sec)
+[2024.04.17-01.28.57:401][848]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.28.57:401][848]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.29.21:803][530]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-01.29.21:803][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-01.30.12:704][225]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.17-01.30.12:705][225]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.17-01.30.53:156][ 79]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.17-01.32.07:545][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.17-01.32.07:545][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-01.32.07:545][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-01.32.55:318][504]LogBlueprint: Warning: [AssetLog] C:\Users\CapTOZ\Desktop\cs415\415final\ver2\CS415-Final-Project\FinalProject\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event AnyDamage  and was replaced as a Custom Event!
+[2024.04.17-01.33.45:449][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.33.45:605][251]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.17-01.33.45:606][251]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_FirstPersonCharacter6C83284F423DFF57A494619A6B6B48B7.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.17-01.33.45:613][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 1.41 sec)
+[2024.04.17-01.33.45:615][251]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.17-01.33.45:615][251]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.17-01.34.07:303][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.34.07:303][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-01.34.07:303][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-01.34.26:008][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.34.26:126][836]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.34.26:126][836]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Boom39F033B94718F87C365AFD96A10B6237.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.34.26:133][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.53 sec)
+[2024.04.17-01.34.26:134][836]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.34.26:134][836]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.34.47:198][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.34.47:279][340]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.34.47:279][340]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Boom119F1B084FBD7C1ED907A6856E279186.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.34.47:285][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.62 sec)
+[2024.04.17-01.34.47:286][340]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.34.47:286][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.35.00:323][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.35.00:422][809]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.35.00:423][809]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Boom103180E24A4895C2226C66973EF7EE8B.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.35.00:429][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.73 sec)
+[2024.04.17-01.35.00:430][809]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.35.00:430][809]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.35.02:623][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.35.02:695][ 53]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.35.02:696][ 53]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Boom5B9D716D4313D150E9C54A9F9D1A56E2.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.35.02:702][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.81 sec)
+[2024.04.17-01.35.02:703][ 53]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.35.02:703][ 53]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.35.05:571][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.35.05:643][381]LogSavePackage: Moving output files for package: /Game/Enemy/CloseRangeEnemy/BP_Enemy_1
+[2024.04.17-01.35.05:643][381]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Enemy_12F4E4FFD4F749740C4D93189D906ACB7.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/CloseRangeEnemy/BP_Enemy_1.uasset'
+[2024.04.17-01.35.05:650][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.88 sec)
+[2024.04.17-01.35.05:650][381]AssetCheck: New page: Asset Save: BP_Enemy_1
+[2024.04.17-01.35.05:651][381]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/CloseRangeEnemy/BP_Enemy_1.BP_Enemy_1
+[2024.04.17-01.35.12:716][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.35.12:865][165]LogSavePackage: Moving output files for package: /Game/Enemy/CloseRangeEnemy/BP_Enemy_1
+[2024.04.17-01.35.12:866][165]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Enemy_10D2C97F2415973C62E108FB3C815F985.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/CloseRangeEnemy/BP_Enemy_1.uasset'
+[2024.04.17-01.35.12:873][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 2.04 sec)
+[2024.04.17-01.35.12:874][165]AssetCheck: New page: Asset Save: BP_Enemy_1
+[2024.04.17-01.35.12:874][165]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/CloseRangeEnemy/BP_Enemy_1.BP_Enemy_1
+[2024.04.17-01.35.22:633][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.35.22:757][306]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_Boom
+[2024.04.17-01.35.22:758][306]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Boom575231E9481B8DCB9676BAAA16903B2B.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_Boom.uasset'
+[2024.04.17-01.35.22:765][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 2.17 sec)
+[2024.04.17-01.35.22:766][306]AssetCheck: New page: Asset Save: BP_Boom
+[2024.04.17-01.35.22:766][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_Boom.BP_Boom
+[2024.04.17-01.36.06:082][822]BlueprintLog: New page: Compile BP_Enemy_1
+[2024.04.17-01.36.06:117][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.17-01.36.34:769][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-01.36.34:771][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Battle_Map/Map1' took 0.016
+[2024.04.17-01.36.34:772][997]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/RemoteEnemy/BP_RemoteEnemy] ([2] browsable assets)...
+[2024.04.17-01.36.34:851][997]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/RemoteEnemy/BP_RemoteEnemy.BP_RemoteEnemy]
+[2024.04.17-01.36.34:852][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/RemoteEnemy/BP_RemoteEnemy]
+[2024.04.17-01.36.34:865][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/RemoteEnemy/BP_RemoteEnemy_Auto1
+[2024.04.17-01.36.34:866][997]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_RemoteEnemy_Auto1C2A68B5147F97A6E37FDCD83D710A3FA.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/Autosaves/Game/Enemy/RemoteEnemy/BP_RemoteEnemy_Auto1.uasset'
+[2024.04.17-01.36.34:867][997]LogFileHelpers: Auto-saving content packages took 0.096
+[2024.04.17-01.36.38:206][317]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.17-01.36.38:271][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-01.36.56:100][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.36.56:225][330]LogSavePackage: Moving output files for package: /Game/Enemy/RemoteEnemy/BP_RemoteEnemy
+[2024.04.17-01.36.56:225][330]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_RemoteEnemy470C6B714458DB141387F389C20558A8.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/RemoteEnemy/BP_RemoteEnemy.uasset'
+[2024.04.17-01.36.56:232][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 2.31 sec)
+[2024.04.17-01.36.56:234][330]AssetCheck: New page: Asset Save: BP_RemoteEnemy
+[2024.04.17-01.36.56:234][330]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/RemoteEnemy/BP_RemoteEnemy.BP_RemoteEnemy
+[2024.04.17-01.37.12:007][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-01.37.12:116][ 42]LogSavePackage: Moving output files for package: /Game/Enemy/CloseRangeEnemy/BP_Enemy_1
+[2024.04.17-01.37.12:117][ 42]LogSavePackage: Moving '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/BP_Enemy_14AE453E142CF5C5B01CC578063E8CC57.tmp' to '../../../../../../Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Content/Enemy/CloseRangeEnemy/BP_Enemy_1.uasset'
+[2024.04.17-01.37.12:123][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.42 sec)
+[2024.04.17-01.37.12:123][ 42]AssetCheck: New page: Asset Save: BP_Enemy_1
+[2024.04.17-01.37.12:123][ 42]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/CloseRangeEnemy/BP_Enemy_1.BP_Enemy_1
+[2024.04.17-01.37.14:622][339]BlueprintLog: New page: Compile BP_Enemy_1
+[2024.04.17-01.37.14:655][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.17-01.40.00:848][ 20]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - (Keyboard).
+[2024.04.17-01.40.00:853][ 20]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 搜狗拼音输入法 (TSF IME).
