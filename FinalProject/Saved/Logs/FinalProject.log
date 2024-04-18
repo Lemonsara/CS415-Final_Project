@@ -1173,3 +1173,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.18-20.54.43:492][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms
 [2024.04.18-20.54.43:493][428]AssetCheck: New page: Asset Save: BP_Machine_Gun_Turret
 [2024.04.18-20.54.43:493][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Turret/machine_gun_turret/BP_Machine_Gun_Turret.BP_Machine_Gun_Turret
+[2024.04.18-20.56.09:070][240]LogDerivedDataCache: C:/Users/Gaoti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.086 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3617 files in 5002 folders with total size 514 MiB.
+[2024.04.18-20.58.44:200][862]BlueprintLog: New page: Compile BP_Machine_Gun_Turret
+[2024.04.18-20.58.44:228][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.18-20.58.45:269][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-20.58.45:413][964]LogSavePackage: Moving output files for package: /Game/Turret/machine_gun_turret/BP_Machine_Gun_Turret
+[2024.04.18-20.58.45:413][964]LogSavePackage: Moving '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Saved/BP_Machine_Gun_TurretC1CE3E2C4FA2A46C081FE488F979DC4E.tmp' to '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/Turret/machine_gun_turret/BP_Machine_Gun_Turret.uasset'
+[2024.04.18-20.58.45:420][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 319 ms)
+[2024.04.18-20.58.45:422][964]AssetCheck: New page: Asset Save: BP_Machine_Gun_Turret
+[2024.04.18-20.58.45:422][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Turret/machine_gun_turret/BP_Machine_Gun_Turret.BP_Machine_Gun_Turret
+[2024.04.18-20.59.23:264][479]BlueprintLog: New page: Compile BP_Machine_Gun_Turret
+[2024.04.18-20.59.23:291][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.18-21.00.37:166][393]BlueprintLog: New page: Compile BP_Machine_Gun_Turret
+[2024.04.18-21.00.37:195][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.18-21.00.38:458][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-21.00.38:568][521]LogSavePackage: Moving output files for package: /Game/Turret/machine_gun_turret/BP_Machine_Gun_Turret
+[2024.04.18-21.00.38:569][521]LogSavePackage: Moving '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Saved/BP_Machine_Gun_TurretCB9855FF4ABD9FB8C7D74EA3EC81B1AC.tmp' to '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/Turret/machine_gun_turret/BP_Machine_Gun_Turret.uasset'
+[2024.04.18-21.00.38:576][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 437 ms)
+[2024.04.18-21.00.38:577][521]AssetCheck: New page: Asset Save: BP_Machine_Gun_Turret
+[2024.04.18-21.00.38:577][521]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Turret/machine_gun_turret/BP_Machine_Gun_Turret.BP_Machine_Gun_Turret
