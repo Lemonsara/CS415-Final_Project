@@ -3912,3 +3912,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.27-18.14.15:473][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 354 ms)
 [2024.04.27-18.14.15:475][744]AssetCheck: New page: Asset Save: BP_Enemy_1
 [2024.04.27-18.14.15:475][744]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/CloseRangeEnemy/BP_Enemy_1.BP_Enemy_1
+[2024.04.27-18.15.45:006][651]LogWindowsTextInputMethodSystem: Activated input method: 英语(美国) - (Keyboard).
+[2024.04.27-18.15.45:006][651]LogWindowsTextInputMethodSystem: Activated input method: 英语(美国) - (Keyboard).
+[2024.04.27-18.16.38:113][932]BlueprintLog: New page: Compile BP_Enemy_1
+[2024.04.27-18.16.38:177][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.27-18.16.46:510][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.27-18.16.46:701][506]LogSavePackage: Moving output files for package: /Game/Enemy/CloseRangeEnemy/BP_Enemy_1
+[2024.04.27-18.16.46:701][506]LogSavePackage: Moving '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Saved/BP_Enemy_1010814814322D0936CAD3E9C6CBD2472.tmp' to '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/Enemy/CloseRangeEnemy/BP_Enemy_1.uasset'
+[2024.04.27-18.16.46:708][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 552 ms)
+[2024.04.27-18.16.46:711][506]AssetCheck: New page: Asset Save: BP_Enemy_1
+[2024.04.27-18.16.46:711][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/CloseRangeEnemy/BP_Enemy_1.BP_Enemy_1
+[2024.04.27-18.16.48:766][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.27-18.16.48:930][714]LogSavePackage: Moving output files for package: /Game/Turret/rocket_turret/BP_Rocket_Turret
+[2024.04.27-18.16.48:931][714]LogSavePackage: Moving '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Saved/BP_Rocket_Turret7D9BF642450207E893B7B2BFCA253283.tmp' to '../../../../../../Users/Gaoti/OneDrive/Desktop/Project git folder/FinalProject/Content/Turret/rocket_turret/BP_Rocket_Turret.uasset'
+[2024.04.27-18.16.48:939][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 725 ms)
+[2024.04.27-18.16.48:940][714]AssetCheck: New page: Asset Save: BP_Rocket_Turret
+[2024.04.27-18.16.48:940][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Turret/rocket_turret/BP_Rocket_Turret.BP_Rocket_Turret
