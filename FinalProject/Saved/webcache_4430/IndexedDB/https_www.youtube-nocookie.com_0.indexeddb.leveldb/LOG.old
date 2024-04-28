@@ -1,0 +1,6 @@
+2024/04/16-20:50:07.832 5eac Creating DB C:/Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/16-20:50:07.840 5eac Reusing MANIFEST C:/Users/CapTOZ/Desktop/cs415/415final/ver2/CS415-Final-Project/FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/16-20:59:42.740 6acc Level-0 table #5: started
+2024/04/16-20:59:42.747 6acc Level-0 table #5: 1167 bytes OK
+2024/04/16-20:59:42.748 6acc Delete type=0 #3
+2024/04/16-20:59:42.749 6acc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
